@@ -80,7 +80,7 @@ console.log(person1)
 
 // array of objects
 
-var arr2=[{fname:'kavya',
+var arr2=[{fname:'induj',
     age:23,
     location:'ksg'},
     {fname:'neenu',
